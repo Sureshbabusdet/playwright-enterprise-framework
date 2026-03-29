@@ -14,6 +14,7 @@ This framework is designed using **Playwright + TypeScript** with an **enterpris
 
 # 📂 Project Structure
 - Create Complete Framework with  Login UI test cases with below Framework structure  and Login API tests and any update as per any improvements  
+
 playwright-enterprise-framework/
 │
 ├── src/
@@ -33,7 +34,6 @@ playwright-enterprise-framework/
 │   ├── ui/                # UI test cases
 │   ├── api/               # API test cases
 │   └── e2e/               # End-to-End tests
-│
 ├── .env.dev
 ├── .env.qa
 ├── .env.prod
