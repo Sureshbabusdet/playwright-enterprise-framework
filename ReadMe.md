@@ -14,7 +14,11 @@ This framework is designed using **Playwright + TypeScript** with an **enterpris
 
 # 📂 Project Structure
 - Create Complete Framework with  Login UI test cases with below Framework structure  and Login API tests and any update as per any improvements  
+---
 
+## 📁 Project Structure
+
+```
 playwright-enterprise-framework/
 │
 ├── src/
@@ -40,7 +44,9 @@ playwright-enterprise-framework/
 ├── .env.prod
 ├── playwright.config.ts
 └── package.json
+```
 
+---
 
 BASE_URL=https://automationexercise.com/
 API_BASE_URL=https://automationexercise.com/api/
