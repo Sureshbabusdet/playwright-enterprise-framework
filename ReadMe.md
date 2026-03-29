@@ -27,18 +27,21 @@ playwright-enterprise-framework/
 │   ├── hooks/             # Test lifecycle hooks
 │   ├── reporters/         # Custom reporters
 │   ├── test-data/         # Test data (JSON)
-│   ├── tags/              # customise the tags
+│   ├── tags/              # Custom test tags
 │   └── storage/           # Session storage (auth/session)
 │
 ├── tests/
 │   ├── ui/                # UI test cases
 │   ├── api/               # API test cases
 │   └── e2e/               # End-to-End tests
+│
 ├── .env.dev
 ├── .env.qa
 ├── .env.prod
 ├── playwright.config.ts
 └── package.json
+
+
 BASE_URL=https://automationexercise.com/
 API_BASE_URL=https://automationexercise.com/api/
 
