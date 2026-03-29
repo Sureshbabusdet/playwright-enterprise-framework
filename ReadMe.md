@@ -52,8 +52,8 @@ API_BASE_URL=https://automationexercise.com/api/
 HEADLESS=true
 BROWSER=chromium
 
-EMAIL=vividvoicechannel@gmail.com
-PASSWORD=Test@123
+EMAIL=test....@gmail.com
+PASSWORD=test..
 ```
 
 ### ▶️ Run with environment
@@ -124,3 +124,7 @@ TEST_ENV=qa npx playwright test
 **OOP:**
 
 * ✔ Encapsulation → private l
+
+Made by Suresh Babu S
+
+For questions, contributions, or support, please contact.:- 8073372170 - Suresh Babu S
